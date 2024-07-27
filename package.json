@@ -1,0 +1,31 @@
+{
+  "name": "hat",
+  "version": "1.0.0",
+  "description": "Hat",
+  "main": "hat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./hat.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CiupagaPL/Hat.git"
+  },
+  "keywords": [
+    "Hat"
+  ],
+  "author": "CiupagaPL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CiupagaPL/Hat/issues"
+  },
+  "homepage": "https://github.com/CiupagaPL/Hat#readme",
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "discord.js": "^14.15.3",
+    "nodemon": "^3.1.4"
+  },
+  "devDependencies": {
+    "eslint": "^9.8.0"
+  }
+}
